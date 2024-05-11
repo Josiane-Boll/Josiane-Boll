@@ -8,5 +8,12 @@ Analista de Testes de Software
 - ✅ **Testes Manuais**;
 - 🔭 **Em Busca de Oportunidades**;
 - 🖥️ **Atualmente mais focada em**:
-<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//-.svg" />
+
+  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//-.svg" />
+          
+          
+          
+           
+          
 
