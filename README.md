@@ -17,7 +17,9 @@ Analista de Testes de Software
 
 
 ## Você também me encontra em:
-
+<a href="https://www.linkedin.com/in/josi-boll/"
+![image](https://github.com/Josiane-Boll/Josiane-Boll/assets/112222329/9d9b1f57-8470-4909-81e8-de5612e986f2)
+</a>
 
 
 
