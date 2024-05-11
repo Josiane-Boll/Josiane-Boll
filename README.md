@@ -6,6 +6,7 @@ Analista de Testes de Software
 - 📝 A cada dia aprofundando aprendizado nas etapas fundamentais dos testes;
 - 💻 Prezo pela qualidade, eficiência e busca da excelência dos processos de execução;
 - ✅ Testes Manuais;
-- 
+- 🔭
+- 🖥️
 
 
