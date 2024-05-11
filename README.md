@@ -1,4 +1,4 @@
-### Josiane Boll aqui:)
+### Josiane Boll aqui :)
 Analista de Testes de Software
  A cada dia aprofundando aprendizado nas etapas fundamentais dos testes:
 - 👩🏼‍💻 Apaixona pela área de **Qualidade de Software**;
