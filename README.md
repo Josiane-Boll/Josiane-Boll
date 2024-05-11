@@ -1,4 +1,4 @@
-### Oi meu nome é Josi!
+### Josiane Boll aqui:)
 Analista de Testes de Software
  A cada dia aprofundando aprendizado nas etapas fundamentais dos testes:
 - 👩🏼‍💻 Apaixona pela área de **Qualidade de Software**;
@@ -8,5 +8,5 @@ Analista de Testes de Software
 - ✅ **Testes Manuais**;
 - 🔭 **Em Busca de Oportunidades**;
 - 🖥️ **Atualmente mais focada em**:
-
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//-.svg" />
 
