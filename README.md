@@ -14,6 +14,7 @@ Analista de Testes de Software
 ![image](https://github.com/Josiane-Boll/Josiane-Boll/assets/112222329/acd94691-3020-40aa-92d3-fab519cc882c)
 ![image](https://github.com/Josiane-Boll/Josiane-Boll/assets/112222329/d480dc70-bfd5-43b2-8200-b1b645e9fe1d)
 ![image](https://github.com/Josiane-Boll/Josiane-Boll/assets/112222329/1dc72897-0d2e-4af0-98ad-a0f47768664d)
+![image](https://github.com/Josiane-Boll/Josiane-Boll/assets/112222329/1efbda26-2cfa-4f72-98e1-4abc4d96ce73)
 
 ##
 
