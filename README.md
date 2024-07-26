@@ -5,7 +5,8 @@ Analista de Testes de Software
 - 📚 Venho mantendo constância nos estudos, com dedicação, foco e determinação;
 - 📝 A cada dia aprofundando aprendizado nas etapas fundamentais dos testes;
 - 💻 PreZo pela qualidade, eficiência e busca da excelência dos processos de execução;
-- ✅ **Testes Manuais e aprendendo Automação**;
+- ✅ Testes Manuais;
+- 🖥️ **Estudando Testes Automatizados com Cypress**;
 - 🔭 **Em Busca de Oportunidades**;
 - 🖥️ **Atualmente mais FOCADA em**:
 
